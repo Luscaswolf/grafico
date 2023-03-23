@@ -1,6 +1,8 @@
-# Started 
+# Started 🔧
 
 Abra o terminal e digite ou copie os comandos abaixo e utilize o enter um de cada vez
+
+💻 Lista de comandos:
 
 ### `git clone https://github.com/Luscaswolf/grafico.git`
 
@@ -14,4 +16,4 @@ grafico > src > app.js é sua aplicação Javascript (A parte de cima) e o html(
 
 Todos os arquivos extras estão dentro de grafico > src > data
 
-Use CTRL + C para parar sua aplicação
+Use CTRL + C para parar sua aplicação 💣
