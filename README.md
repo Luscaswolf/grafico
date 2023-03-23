@@ -17,3 +17,12 @@ grafico > src > app.js é sua aplicação Javascript (A parte de cima) e o html(
 Todos os arquivos extras estão dentro de grafico > src > data
 
 Use CTRL + C para parar sua aplicação 💣
+
+Dicas🤡
+
+Provavelmente pode ocorrer um erro Chart.js, aqui vai uma pequena ajuda
+https://stackoverflow.com/questions/40056555/destroy-chart-js-bar-graph-to-redraw-other-graph-in-same-canvas
+
+Caso de um erro sobre esse mesmo problema na tela pode apertar o ❌ no canto superior direito da pagina, nisso apenas para vizualiação da tela
+
+Lembre de ter instalo o Npm e o git na sua maquina‼️
